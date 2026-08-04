@@ -4,7 +4,7 @@
 export const newsItems = [
   {
     slug: 'security-psychiatry-nedre-ila-opens',
-    image: null,
+    image: 'https://res.cloudinary.com/xltcxujw/image/upload/v1785877069/profilbilde-nedre-ila_mjh5jp.webp',
     switchImagePosition: false,
     title: 'New Security Psychiatry Building at Nedre Ila Handed Over',
     date: '25 March 2026',
@@ -18,7 +18,7 @@ export const newsItems = [
   },
   {
     slug: 'alna-district-transfer',
-    image: null,
+    image: 'https://res.cloudinary.com/xltcxujw/image/upload/v1785877370/ulleval-hovedinngang1_fqcov6.webp',
     switchImagePosition: true,
     title: 'Oslo University Hospital Takes Over Care for Alna District',
     date: '6 January 2026',
@@ -32,7 +32,7 @@ export const newsItems = [
   },
   {
     slug: 'ulleval-site-sale-preparations',
-    image: null,
+    image: 'https://res.cloudinary.com/xltcxujw/image/upload/v1785877646/epost_us-aw_0007_szwsiv.webp',
     switchImagePosition: false,
     title: 'Preparations Begin for Eventual Sale of the Ullevål Site',
     date: '5 November 2025',
@@ -46,7 +46,7 @@ export const newsItems = [
   },
   {
     slug: 'first-proton-therapy-patient-treated',
-    image: null,
+    image: 'https://res.cloudinary.com/xltcxujw/image/upload/v1785877805/protonmaskin02-p.m.-didriksen_q7a4r4.webp',
     switchImagePosition: true,
     title: "Norway's First Proton Therapy Patient Treated at Radiumhospitalet",
     date: '17 March 2025',
@@ -60,7 +60,7 @@ export const newsItems = [
   },
   {
     slug: 'hiv-remission-oslo-patient',
-    image: null,
+    image: 'https://res.cloudinary.com/xltcxujw/image/upload/v1785878041/image_qsb00v.webp',
     switchImagePosition: false,
     title: "Norwegian Man in HIV Remission After Bone Marrow Transplant",
     date: '10 March 2025',
@@ -74,7 +74,7 @@ export const newsItems = [
   },
   {
     slug: 'new-radiumhospitalet-officially-opened',
-    image: null,
+    image: 'https://res.cloudinary.com/xltcxujw/image/upload/v1785878200/hmk-pa-vei-2-p.-m.-didriksen-ous_grrojr.webp',
     switchImagePosition: true,
     title: 'New Clinic and Proton Building at Radiumhospitalet Officially Opened',
     date: '17 October 2024',
@@ -87,22 +87,8 @@ export const newsItems = [
     sourceLabel: 'Oslo University Hospital'
   },
   {
-    slug: 'specialist-cancer-centres-consolidated',
-    image: null,
-    switchImagePosition: false,
-    title: 'Breast, Prostate and Gynaecological Cancer Care Consolidated at Radiumhospitalet',
-    date: '17 October 2024',
-    site: 'Radiumhospitalet',
-    summary:
-      'As part of the new Radiumhospitalet building, the hospital has grouped breast, prostate and gynaecological cancer care into dedicated specialist centres, including the breast oncology outpatient clinic that previously ran from Ullevål.',
-    body:
-      'Bringing these services together is intended to shorten pathways between diagnosis, treatment planning and follow-up for patients being treated for these cancers, with specialists from previously separate departments now working out of the same building.',
-    sourceUrl: 'https://www.oslo-universitetssykehus.no/om-oss/nyheter/offisiell-apning-av-det-nye-radiumhospitalet/',
-    sourceLabel: 'Oslo University Hospital'
-  },
-  {
     slug: 'nye-aker-construction-begins',
-    image: null,
+    image: 'https://res.cloudinary.com/xltcxujw/image/upload/v1785878570/spadetak-13_fxpvgo.webp',
     switchImagePosition: true,
     title: 'Construction Begins on New Aker Hospital',
     date: 'March 2024',
