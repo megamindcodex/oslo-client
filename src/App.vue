@@ -1,7 +1,6 @@
 <script setup>
 import SiteHeader from './components/layout/SiteHeader.vue'
 import SiteFooter from './components/layout/SiteFooter.vue'
-import WatermarkOverlay from './components/ui/WatermarkOverlay.vue'
 </script>
 
 <template>
@@ -9,6 +8,5 @@ import WatermarkOverlay from './components/ui/WatermarkOverlay.vue'
     <SiteHeader />
     <RouterView />
     <SiteFooter />
-    <WatermarkOverlay />
   </div>
 </template>
