@@ -34,7 +34,7 @@ const backgroundImage = computed(() => {
         text-anchor="middle" dominant-baseline="central"
         font-family="'Plus Jakarta Sans', ui-sans-serif, sans-serif"
         font-size="${props.fontSize}" font-weight="900" letter-spacing="3" text-rendering="geometricPrecision"
-        fill="#4A3626" fill-opacity="1">${label}</text>
+        fill="#A93226" fill-opacity="1">${label}</text>
     </svg>
   `
     .trim()
