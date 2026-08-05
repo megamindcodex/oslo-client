@@ -2,7 +2,7 @@ export const facilities = [
   {
     slug: 'patient-hotel',
     title: 'Patient Hotel',
-    image: null,
+    image: 'https://res.cloudinary.com/xltcxujw/image/upload/v1785879111/27715459_sxstha.jpg',
     color: '#5B84A6',
     audience: ['Patients', 'Family & Visitors'],
     description:
@@ -19,7 +19,7 @@ export const facilities = [
   {
     slug: 'pharmacy',
     title: 'Hospital Pharmacy',
-    image: null,
+    image: 'https://res.cloudinary.com/xltcxujw/image/upload/v1785886929/4ad2e248835f9c2ec7d31b81738c2c9d_ea9483a259_krxlwt.webp',
     color: '#C97F76',
     audience: ['Patients', 'Family & Visitors', 'Staff'],
     description:
@@ -35,7 +35,7 @@ export const facilities = [
   {
     slug: 'cafeteria-restaurant',
     title: 'Cafeteria & Restaurant',
-    image: null,
+    image: 'https://res.cloudinary.com/xltcxujw/image/upload/v1785888214/o_zu1cft.jpg',
     color: '#6B9080',
     audience: ['Patients', 'Family & Visitors', 'Staff'],
     description:
@@ -51,7 +51,7 @@ export const facilities = [
   {
     slug: 'chapel-quiet-room',
     title: 'Chapel & Quiet Room',
-    image: null,
+    image: 'https://res.cloudinary.com/xltcxujw/image/upload/v1785888480/1280px-Nordre_gravlund_kapell__Oslo__bilde_9_bxebui.jpg',
     color: '#C99A4E',
     audience: ['Patients', 'Family & Visitors', 'Staff'],
     description:
@@ -67,7 +67,7 @@ export const facilities = [
   {
     slug: 'patient-library',
     title: 'Patient & Family Library',
-    image: null,
+    image: 'https://res.cloudinary.com/xltcxujw/image/upload/v1785888676/hodeskaller-1396x514_nyyimh.png',
     color: '#5B84A6',
     audience: ['Patients', 'Family & Visitors'],
     description:
@@ -83,7 +83,7 @@ export const facilities = [
   {
     slug: 'parking-transport',
     title: 'Parking & Transport',
-    image: null,
+    image: 'https://res.cloudinary.com/xltcxujw/image/upload/v1785889834/1280px-Ullev%C3%A5l_sykehus_station_ivjze0.jpg',
     color: '#C97F76',
     audience: ['Patients', 'Family & Visitors', 'Staff'],
     description:
@@ -99,7 +99,7 @@ export const facilities = [
   {
     slug: 'helicopter-landing-pad',
     title: 'Helicopter Landing Pad',
-    image: null,
+    image: 'https://res.cloudinary.com/xltcxujw/image/upload/v1785890168/Ullevaal_US9_yawuqx.jpg',
     color: '#6B9080',
     audience: ['Emergency Services'],
     description:
@@ -114,7 +114,7 @@ export const facilities = [
   {
     slug: 'childrens-play-area',
     title: "Children's Play Area",
-    image: null,
+    image: 'https://res.cloudinary.com/xltcxujw/image/upload/v1785891474/8707y890u090_quh0lm.jpg',
     color: '#C99A4E',
     audience: ['Pediatric Patients', 'Family & Visitors'],
     description:
@@ -130,7 +130,7 @@ export const facilities = [
   {
     slug: 'staff-facilities',
     title: 'Staff Facilities',
-    image: null,
+    image: 'https://res.cloudinary.com/xltcxujw/image/upload/v1785877646/epost_us-aw_0007_szwsiv.webp',
     color: '#5B84A6',
     audience: ['Staff'],
     description:
@@ -146,7 +146,7 @@ export const facilities = [
   {
     slug: 'wifi-charging',
     title: 'Free Wi-Fi & Charging Stations',
-    image: null,
+    image: 'https://res.cloudinary.com/xltcxujw/image/upload/v1785936354/image_s3nknl.jpg',
     color: '#C97F76',
     audience: ['Patients', 'Family & Visitors', 'Staff'],
     description:

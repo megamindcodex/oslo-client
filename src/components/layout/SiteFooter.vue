@@ -36,7 +36,7 @@ const currentYear = new Date().getFullYear()
           <p class="text-sm font-semibold text-slate-900">Contact</p>
           <ul class="mt-3 space-y-2 text-sm text-slate-600">
             <li>Kirkeveien 166, 0450 Oslo</li>
-            <li><a href="tel:+4722118080" class="hover:text-hospital-brown-700">22 11 80 80</a></li>
+            <li><a href="tel:+4700001234" class="hover:text-hospital-brown-700">00 00 12 34</a></li>
             <li>
               Emergency:
               <a href="tel:113" class="font-medium text-emergency-600 hover:text-emergency-700">113</a>

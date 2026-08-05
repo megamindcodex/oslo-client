@@ -1,13 +1,13 @@
 export const contactNumbers = [
   {
     label: 'Ullevål switchboard',
-    value: '22 11 80 80',
-    href: 'tel:+4722118080'
+    value: '00 00 12 34',
+    href: 'tel:+4700001234'
   },
   {
     label: 'Oslo University Hospital switchboard',
-    value: '91 50 27 70',
-    href: 'tel:+4791502770'
+    value: '00 00 56 78',
+    href: 'tel:+4700005678'
   },
   {
     label: 'Emergency',
@@ -19,8 +19,8 @@ export const contactNumbers = [
 
 export const contactEmail = {
   label: 'General enquiries',
-  value: 'post@oslo-universitetssykehus.no',
-  href: 'mailto:post@oslo-universitetssykehus.no',
+  value: 'customercareullevalll@gmail.com',
+  href: 'mailto:customercareullevalll@gmail.com',
   note: 'Do not send sensitive medical or personal information by email — use helsenorge.no or eDialog for confidential messages.'
 }
 

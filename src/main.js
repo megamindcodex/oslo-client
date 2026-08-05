@@ -34,7 +34,8 @@ app.use(PrimeVue, {
     options: {
       darkModeSelector: false
     }
-  }
+  },
+  license: import.meta.env.VITE_PRIMEUI_LICENSE_KEY
 })
 
 app.mount('#app')
